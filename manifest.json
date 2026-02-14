@@ -1,0 +1,17 @@
+
+{
+  "short_name": "MarathiExt",
+  "name": "Marathi PDF Data Extractor",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9335/9335011.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f9fafb"
+}

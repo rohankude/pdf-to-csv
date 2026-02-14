@@ -1,0 +1,7 @@
+{
+  "name": "Marathi PDF Data Extractor",
+  "description": "Extracts voter information (Name, Age, Gender, Address, EPIC Number) from Marathi PDFs and generates CSV files using AI-powered OCR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
